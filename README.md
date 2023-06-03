@@ -26,7 +26,7 @@ Here is a mock up of the app I made on figma to guide me through the development
 Link to Figma: https://www.figma.com/file/aJfDPQTYB5e0rG37ANIDEa/Texting-App?type=design&node-id=0%3A1&t=lazOq3ogMWNnjGs1-1
 
 
-[Figma Mock Up](https://i.imgur.com/QMVpWAx.png)
+![Figma Mock Up](https://i.imgur.com/QMVpWAx.png)
 
 
 
