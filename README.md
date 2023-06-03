@@ -1,4 +1,4 @@
-# our_chat
+# Koi Chat
 
 A new Flutter project.
 
