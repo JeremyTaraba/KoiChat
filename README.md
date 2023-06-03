@@ -1,16 +1,33 @@
 # Koi Chat
 
-A new Flutter project.
+An anonymous group texting app made with Flutter in Android Studio
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This project was made in Android Studio using Flutter which is Google's dart based UI software development kit. This project compiles into an app that runs on Android and lets users create an account or log in to an existing account. Account authorization is taken care of by using Firebase Auth. The app itself gives users a randomly generated display name to keep anonymity and lets them send messages to a central chat with all users. The messages are stored in a collection on Firebase's Realtime Database.
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Android Studio Electric Eel 2022.1.1 Patch 1
+- Flutter 3.7.6
+- Dart 2.19.3
+- Android 12.0 Google APIs | x86_64
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installing On Phone
+
+Compile and run files within Android Studio to make an executable APK
+
+link to instructions: https://developer.android.com/studio/run
+
+
+## Mock Up
+
+Here is a mock up of the app I made on figma to guide me through the development process
+
+
+
+
+
+## Finished Product
+
+Here is the finished product
