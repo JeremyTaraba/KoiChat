@@ -4,7 +4,7 @@ An anonymous group texting app made with Flutter in Android Studio
 
 ## Description
 
-This project was made in Android Studio using Flutter which is Google's dart based UI software development kit. This project compiles into an app that runs on Android and lets users create an account or log in to an existing account. Account authorization is taken care of by using Firebase Auth. The app itself gives users a randomly generated display name to keep anonymity and lets them send messages to a central chat with all users. The messages are stored in a collection on Firebase's Realtime Database.
+This project was made in Android Studio using Flutter which is Google's dart based UI software development kit. This project compiles into an app that runs on Android and lets users create an account or log in to an existing account. Account authorization is taken care of by using Firebase Auth. The app itself gives users a randomly generated display name to keep anonymity and lets them send messages to a central chat with all users. The messages are stored in a collection on Firebase's Cloud Firestore Realtime Database.
 
 ## Dependencies
 
